@@ -1,0 +1,13 @@
+async function startProgram() {
+var setSpeed,('0,10,0');true;
+	await Sound.RobotTalk.play('DIE',true)
+	await Sound.RobotTalk.play('now',true);
+	await Sound.RobotTalk.play('1',true);
+	await Sound.RobotTalk.play('2',true);
+	await Sound.RobotTalk.play('3',true);
+		setSpeed('1,8,1',true);
+			roll('0,1,2,1,0',true);
+		if(roll);true,setSpeed('33,43,53,63,73,83,93,103,93,83,73,63,53,43,33',true);
+	var(setMainLed);true;RobotType (true);import(listenForIRMessage);true;
+	if(async); setSpeed(',0,10,0',true); exitProgram, true; stopRoll=(true);
+}
